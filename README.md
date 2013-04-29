@@ -11,5 +11,5 @@ A Statamic plugin for transforming XML via your own XSLT and outputting on your 
 
 ## TO-DO's
 
-- provide examples with XML and XSLT files. 
+- provide examples with **XML** and **XSLT** files. 
 - tidy up the code and make it more reliable. 
