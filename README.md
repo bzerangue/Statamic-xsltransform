@@ -1,4 +1,4 @@
-# Statamic Plugin - XLSTransform
+# Statamic Plugin - XSLTransform
 
 ### NOTE: please fork and make this better.
 
