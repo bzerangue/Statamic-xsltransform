@@ -1,9 +1,9 @@
 <?php
-class Plugin_transform extends Plugin
+class Plugin_xsltransform extends Plugin
 {
     var $meta = array(
-        'name'       => 'Transform',
-        'version'    => '0.1',
+        'name'       => 'XSLTransform',
+        'version'    => '0.2',
         'author'     => 'Brian Zerangue',
         'author_url' => 'http://brianzerangue.com'
     );
