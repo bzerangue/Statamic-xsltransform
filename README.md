@@ -1,5 +1,7 @@
 # Statamic Plugin - XLSTransform
 
+v. 0.2 - for Statamic 1.4 and lower
+
 ### NOTE: please fork and make this better.
 
 A Statamic plugin for transforming XML via your own XSLT and outputting on your site as HTML
