@@ -1,4 +1,4 @@
-# Statamic Plugin - XLSTransform
+# Statamic Plugin - XSLTransform
 
 v. 0.2 - for Statamic 1.4 and lower
 
