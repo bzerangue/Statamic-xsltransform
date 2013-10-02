@@ -3,16 +3,16 @@ class Plugin_xsltransform extends Plugin
 {
     var $meta = array(
         'name'       => 'XSLTransform',
-        'version'    => '0.2',
+        'version'    => '0.3',
         'author'     => 'Brian Zerangue',
         'author_url' => 'http://brianzerangue.com'
     );
 
     function index()
     {
-        $xml = $this->fetch_param('xml');
+        $xml = $this->fetchParam('xml');
 
-        $xsl = $this->fetch_param('xsl');
+        $xsl = $this->fetchParam('xsl');
 
         // Load the XML source
         $xmldoc = new DOMDocument;
