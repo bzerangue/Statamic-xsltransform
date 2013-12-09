@@ -3,7 +3,7 @@ class Plugin_xsltransform extends Plugin
 {
     var $meta = array(
         'name'       => 'XSLTransform',
-        'version'    => '0.3',
+        'version'    => '0.4',
         'author'     => 'Brian Zerangue',
         'author_url' => 'http://brianzerangue.com'
     );
